@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I am Garv Nanwani
-![](https://komarev.com/ghpvc/?username=garvnanwani&color=dc143c)
+
 ### a full stack web developer
 
 - 🔭 I’m currently looking for some interesting projects to work!
