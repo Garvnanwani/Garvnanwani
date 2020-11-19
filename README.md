@@ -51,12 +51,7 @@
 <hr />
 
 ### Stats
-<a href="#stats">
-  <img align="center" alt="Garv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Garvnanwani&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="#stats">
-  <img align="center" alt="Garv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvnanwani&layout=compact" />
-</a>
+<a href="https://www.aboelkassem.com/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Garvnanwani&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvnanwani&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=ffftheme=graywhite" /></a>
 
 [twitter]: https://twitter.com/thisisgarv
 [LinkedIn]: https://www.linkedin.com/in/garvnanwani/
