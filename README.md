@@ -17,7 +17,10 @@
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instagram] 
+[<img height="30" src = "tinstagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instagram] 
+
+[<img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
+[<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white">][Dev.to] 
 <br />
 <hr />
 
@@ -56,3 +59,5 @@
 [twitter]: https://twitter.com/thisisgarv
 [LinkedIn]: https://www.linkedin.com/in/garvnanwani/
 [Instagram]: https://www.instagram.com/garv_nanwani
+[Gmail]: mailto:garvnanwani88@gmail.com
+[Dev.to]: https://dev.to/thisisgarv
