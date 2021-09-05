@@ -53,10 +53,10 @@
 <hr />
 
 ### Stats
-<a href="https://www.aboelkassem.com/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Garvnanwani&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvnanwani&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=ffftheme=graywhite" /></a>
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Garvnanwani&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvnanwani&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=ffftheme=graywhite" />
 
 [twitter]: https://twitter.com/GarvNanwani
 [LinkedIn]: https://www.linkedin.com/in/garvnanwani/
 [Instagram]: https://www.instagram.com/garv_nanwani
-[Gmail]: mailto:garvnanwani88@gmail.com
+[Gmail]: mailto:garvwashere@gmail.com
 [Dev.to]: https://dev.to/thisisgarv
